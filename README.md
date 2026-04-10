@@ -61,12 +61,12 @@
 
 | Проект | Задача | Ключевые инструменты |
 |--------|--------|-----------------------|
-| [Прогнозирование оттока клиентов (Телеком)](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/final_project_telecom) | Классификация, работа с дисбалансом классов | `CatBoost` `SHAP` `Pandas` |
-| [Оптимизация производственных отходов](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/final_project_industry) | Регрессия, предсказание объёма отходов для металлургического производства | `LinearRegression` `EDA` `Feature Engineering` |
-| [Предсказание стоимости автомобилей](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/model_auto) | Регрессия, градиентный бустинг | `LightGBM` `Optuna` `Seaborn` |
-| [Определение возраста по фотографии (CV)](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/model_cv) | Компьютерное зрение, регрессия | `Keras` `ResNet50` `PIL` |
-| [Классификация токсичных комментариев (NLP)](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/model_tox) | Обработка естественного языка, бинарная классификация | `BERT` `SpaCy` `Scikit-learn` |
-| [Прогнозирование температуры звезды](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/model_stars) | Регрессия на основе астрофизических данных | `Pandas` `Scikit-learn` `Matplotlib` |
+| [Прогнозирование удовлетворённости и оттока сотрудников](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/Predicting%20employee%20satisfaction%20and%20attrition) | HR-аналитика, классификация, выявление факторов текучести | `CatBoost` `SHAP` `Pandas` |
+| [Оптимизация производственных отходов](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/Optimization%20of%20production%20waste) | Регрессия, предсказание объёма отходов для металлургического производства | `LinearRegression` `EDA` `Feature Engineering` |
+| [Определение стоимости автомобилей](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/Determining%20the%20value%20of%20cars) | Регрессия, градиентный бустинг | `LightGBM` `Optuna` `Seaborn` |
+| [Определение возраста покупателей (CV)](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/Determining%20the%20age%20of%20buyers) | Компьютерное зрение, регрессия | `Keras` `ResNet50` `PIL` |
+| [Поиск токсичных комментариев (NLP)](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/Finding%20toxic%20comments%20for%20an%20online%20store) | Обработка естественного языка, бинарная классификация | `BERT` `SpaCy` `Scikit-learn` |
+| [Прогнозирование температуры звезды](https://github.com/constantaa88-netizen/yandex_practicum_data_science/tree/main/Predicting%20the%20temperature%20of%20a%20star) | Регрессия на основе астрофизических данных | `Pandas` `Scikit-learn` `Matplotlib` |
 
 > *Ссылки ведут на соответствующие папки в репозитории. Внутри каждого проекта — подробный README и Jupyter Notebook.*
 
