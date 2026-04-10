@@ -13,6 +13,23 @@
 **🎓 НИУ «МЭИ»** — Магистр по направлению «Ядерная энергетика и теплофизика». M.Sc. in Nuclear Power Engineering and Thermal Physics. 
 **📊 Яндекс.Практикум** — Специалист по Data Science.
 
+## 🛠️ Tech Stack
+
+**Languages & Databases:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Machine Learning & DL:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Visualization & Tools:**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 #### 🧠 Уникальный гибридный профиль:
 
 | Домен | Инструменты и опыт |
@@ -86,8 +103,9 @@
 
 ---
 
-### 📈 Статистика GitHub
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=constantaa88-netizen&show_icons=true&theme=default" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=constantaa88-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantaa88-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
