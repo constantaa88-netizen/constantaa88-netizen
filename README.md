@@ -110,7 +110,9 @@ A collection of projects completed as part of the Yandex.Practicum training. Eac
 
 <details>
   <summary>Нажмите, чтобы развернуть / Click to expand</summary>
+  
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-🤝💼-success?style=for-the-badge)
+
 ### 👋 Привет, я Максим Михеев
 
 > *Предприниматель и Data Scientist с фундаментальным инженерным образованием. Превращаю хаос неструктурированных данных в прогнозы высокой точности, а сложные технические системы — в понятные модели.*
