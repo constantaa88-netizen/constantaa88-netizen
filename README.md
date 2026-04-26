@@ -1,6 +1,7 @@
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-🤝💼-success?style=for-the-badge)
 ### 👋 Hi, I'm Maxim Mikheev
 
+
 > *An entrepreneur and Data Scientist with a solid engineering background. I turn the chaos of unstructured data into high-precision forecasts, and complex technical systems into understandable models.*
 
 [![Telegram](https://img.shields.io/badge/Telegram-@mmikheew-26A5E4?style=flat-square&logo=telegram)](https://t.me/mmikheew)
